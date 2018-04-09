@@ -2,3 +2,4 @@
   roles:
     - { role: manala.nodejs }
     - { role: manala.influxdb }
+    - { role: manala.grafana }
