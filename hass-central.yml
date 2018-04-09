@@ -1,5 +1,5 @@
 - hosts: all
   roles:
-    - { role: manala.nodejs }
-    - { role: manala.influxdb }
-    - { role: manala.grafane }
+    - manala.nodejs
+    - manala.influxdb
+    - manala.grafane
